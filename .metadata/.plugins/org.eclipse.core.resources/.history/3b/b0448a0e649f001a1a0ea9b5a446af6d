@@ -1,0 +1,15 @@
+package snippet;
+
+import com.nelioalves.cursomcp.domain.enums.EstadoPagamento;
+import com.nelioalves.cursomcp.domain.enums.Perfil;
+import com.nelioalves.cursomcp.domain.enums.TipoCliente;
+
+public class Snippet {
+	public static void main(String[] args) {
+		com.nelioalves.cursomc.domain.enums
+		/cursomc/src/main/java/com/nelioalves/cursomc/domain/enums/EstadoPagamento.java
+		/cursomc/src/main/java/com/nelioalves/cursomc/domain/enums/Perfil.java
+		/cursomc/src/main/java/com/nelioalves/cursomc/domain/enums/TipoCliente.java
+	}
+}
+
