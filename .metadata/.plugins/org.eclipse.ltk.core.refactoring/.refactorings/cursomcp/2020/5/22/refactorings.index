@@ -10,3 +10,13 @@
 1590501820223	Delete element
 1590501852769	Rename package 'com.nelioalves.cursomc.services'
 1590506267784	Delete element
+1590604518858	Encapsulate field 'itens'
+1590693175193	Rename package 'com.nelioalves.cursomc.dto'
+1590693349726	Rename package 'com.nelioalves.cursomc.resources.exception'
+1590693519421	Delete element
+1590693585300	Rename package 'com.nelioalves.cursomc.services.validation'
+1590693681823	Rename package 'com.nelioalves.cursomc.services.validation.utils'
+1590693782963	Rename package 'com.nelioalves.cursomc.services.exceptions'
+1590693904864	Rename package 'com.nelioalves.cursomc.resources.utils'
+1590693980903	Rename package 'com.nelioalves.cursomc.security'
+1590694120971	Rename package 'com.nelioalves.cursomc.config'
