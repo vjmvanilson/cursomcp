@@ -16,8 +16,8 @@
 		<item value="vanilson &lt;vanilsonvjm@gmail.com&gt;"/>
 	</list>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="2238"/>
-		<item key="DIALOG_Y_ORIGIN" value="292"/>
+		<item key="DIALOG_X_ORIGIN" value="996"/>
+		<item key="DIALOG_Y_ORIGIN" value="283"/>
 		<item key="DIALOG_WIDTH" value="656"/>
 		<item key="DIALOG_HEIGHT" value="458"/>
 		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|10.0|0|GTK|1|"/>
@@ -29,7 +29,7 @@
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
 		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
-		<item key="sortItemState" value="false"/>
+		<item key="sortItemState" value="true"/>
 	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="/media/vanilson/vjm/Treinamento/udemy/spring rest1/cursomcp/.git">
@@ -40,6 +40,15 @@
 			<item value="35d396e13c54f852d6814a936c3c4c24d37390d3"/>
 			<item value="0"/>
 			<item value="true"/>
+		</list>
+		<list key="/media/vanilson/vjm/Treinamento/udemy/spring rest1/.git">
+			<item value="false"/>
+			<item value="vanilson &lt;vanilsonvjm@gmail.com&gt;"/>
+			<item value="Inserindo categoria via metodo post&#x0A;"/>
+			<item value="vanilson &lt;vanilsonvjm@gmail.com&gt;"/>
+			<item value="461a9c440aee6f2eb92044370acf6bfb5d86e343"/>
+			<item value="0"/>
+			<item value="false"/>
 		</list>
 	</section>
 	<section name="PushToGerritPage">
