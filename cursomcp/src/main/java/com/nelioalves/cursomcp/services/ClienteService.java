@@ -30,7 +30,6 @@ import com.nelioalves.cursomcp.services.exceptions.AuthorizationException;
 import com.nelioalves.cursomcp.services.exceptions.DataIntegrityException;
 import com.nelioalves.cursomcp.services.exceptions.ObjectNotFoundException;
 
-
 @Service
 public class ClienteService {
 	
@@ -42,6 +41,9 @@ public class ClienteService {
 	
 	@Autowired
 	private BCryptPasswordEncoder pe;
+	
+	@Autowired
+	private S3Service s3Service;
 	
 	@Autowired
 	private ImageService imageService;
@@ -147,6 +149,6 @@ public class ClienteService {
 		
 		String fileName = prefix + user.getId() + ".jpg";
 		
-		return S3Service.uploadFile(imageService.getInputStream(jpgImage, "jpg"), fileName, "image");
+		return s3Service.uploadFile(imageService.getInputStream(jpgImage, "jpg"), fileName, "image");
 	}
 }
