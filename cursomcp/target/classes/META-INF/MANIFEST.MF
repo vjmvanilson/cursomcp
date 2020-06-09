@@ -5,6 +5,6 @@ Implementation-Title: cursomc
 Implementation-Version: 0.0.1-SNAPSHOT
 Implementation-Vendor-Id: com.nelioalves.cursomc
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
- -starter-parent/cursomc
+ -starter-parent/cursomcp
 Created-By: Maven Integration for Eclipse
 
