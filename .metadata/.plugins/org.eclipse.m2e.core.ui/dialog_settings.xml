@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/media/vanilson/69DDC8133A5B71B9/Treinamento/Udemy/spring rest/cursomcp/cursomcp"/>
 			<item value="/media/vanilson/vjm/Treinamento/udemy/spring rest"/>
 		</list>
 		<list key="projectNameTemplate">
