@@ -11,6 +11,7 @@ import com.nelioalves.cursomcp.services.DBService;
 import com.nelioalves.cursomcp.services.EmailService;
 import com.nelioalves.cursomcp.services.MockEmailService;
 
+
 @Configuration
 @Profile("test")
 public class TestConfig {

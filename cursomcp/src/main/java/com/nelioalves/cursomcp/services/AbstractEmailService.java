@@ -12,6 +12,7 @@ import org.springframework.mail.javamail.MimeMessageHelper;
 import org.thymeleaf.TemplateEngine;
 import org.thymeleaf.context.Context;
 
+
 import com.nelioalves.cursomcp.domain.Pedido;
 
 public abstract class AbstractEmailService implements EmailService {

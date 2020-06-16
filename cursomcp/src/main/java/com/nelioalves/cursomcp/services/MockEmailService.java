@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.mail.SimpleMailMessage;
 
-
+import com.nelioalves.cursomcp.domain.Cliente;
 
 public class MockEmailService extends AbstractEmailService {
 
@@ -26,5 +26,9 @@ public class MockEmailService extends AbstractEmailService {
 		LOG.info("Email enviado");
 	}
 
-
+	@Override
+	public void sendNewPasswordEmail(Cliente cliente, String newPass) {
+		// TODO Auto-generated method stub
+		
+	}
 }
