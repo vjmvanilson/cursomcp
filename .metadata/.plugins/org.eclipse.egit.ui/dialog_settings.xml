@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="CommitDialog.showUntracked" value="true"/>
 	<list key="EGit.KnownHosts">
 		<item value="git.eclipse.org"/>
 		<item value="github.com"/>
@@ -16,8 +17,8 @@
 		<item value="vanilson &lt;vanilsonvjm@gmail.com&gt;"/>
 	</list>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="996"/>
-		<item key="DIALOG_Y_ORIGIN" value="283"/>
+		<item key="DIALOG_X_ORIGIN" value="746"/>
+		<item key="DIALOG_Y_ORIGIN" value="536"/>
 		<item key="DIALOG_WIDTH" value="656"/>
 		<item key="DIALOG_HEIGHT" value="458"/>
 		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|10.0|0|GTK|1|"/>
@@ -54,5 +55,19 @@
 	<section name="PushToGerritPage">
 		<item key="[RepositoryHandle:Repository[/media/vanilson/vjm/Treinamento/udemy/spring rest1/cursomcp/.git]].lastUri" value="https://github.com/vjmvanilson/springrest.git"/>
 		<item key="[RepositoryHandle:Repository[/media/vanilson/vjm/Treinamento/udemy/spring rest1/cursomcp/.git]].lastBranch" value="rest"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.repository.CreateBranchPage$SourceSelectionDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="-2"/>
+		<item key="DIALOG_Y_ORIGIN" value="-133"/>
+		<item key="DIALOG_WIDTH" value="528"/>
+		<item key="DIALOG_HEIGHT" value="486"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|10.0|0|GTK|1|"/>
+	</section>
+	<section name="org.eclipse.egit.ui.COMMIT_DIALOG_SECTION">
+		<item key="DIALOG_X_ORIGIN" value="-47"/>
+		<item key="DIALOG_Y_ORIGIN" value="-338"/>
+		<item key="DIALOG_WIDTH" value="632"/>
+		<item key="DIALOG_HEIGHT" value="655"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|10.0|0|GTK|1|"/>
 	</section>
 </section>

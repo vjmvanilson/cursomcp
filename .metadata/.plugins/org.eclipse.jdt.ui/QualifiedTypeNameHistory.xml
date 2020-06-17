@@ -22,4 +22,5 @@
     <fullyQualifiedTypeName name="com.nelioalves.cursomcp.dto.CategoriaDTO"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="ch.qos.logback.core.Context"/>
+    <fullyQualifiedTypeName name="com.nelioalves.cursomcp.services.MockEmailService"/>
 </qualifiedTypeNameHistroy>

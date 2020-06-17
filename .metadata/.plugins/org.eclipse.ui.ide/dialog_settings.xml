@@ -47,6 +47,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/media/vanilson/vjm/Treinamento/udemy/udemy Java 2020/composition2-java-master"/>
+			<item value="/media/vanilson/vjm/Treinamento/udemy/udemy Java 2020/composition2-java-master/src"/>
+			<item value="/media/vanilson/vjm/Treinamento/udemy/udemy Java 2020/cursojavaudemy"/>
+			<item value="/media/vanilson/vjm/Treinamento/udemy/spring rest 2"/>
 			<item value="/media/vanilson/vjm/Treinamento/udemy/springboot2-ionic-backend-email-html"/>
 			<item value="/media/vanilson/vjm/Treinamento/udemy/spring rest 2/springboot2-ionic-backend"/>
 			<item value="/media/vanilson/vjm/Treinamento/udemy/spring inicial"/>
